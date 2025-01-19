@@ -9,3 +9,4 @@
 
 Документацию по amocrm можно достать [тут](https://www.amocrm.ru/developers/content/crm_platform/platform-abilities) и [тут](https://github.com/amocrm/amocrm-api-php/tree/master)
     
+Все приватные файлы я хранил в папке vault\vault.php или в ней же но в файле json куда кладется токен авторизации.
