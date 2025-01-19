@@ -18,7 +18,9 @@
 
 
 ![image](https://github.com/user-attachments/assets/20d12ac7-29f7-452e-b7b9-5376b2a66b43)
+
 Скрин с добавленной сделкой
 
 ![image](https://github.com/user-attachments/assets/6b87abb9-4f44-43c5-bab0-d8732033572e)
+
 Скрин с контактом и полем "Провел больше 30 секунд"
